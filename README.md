@@ -16,17 +16,17 @@ Kotlin과 Jetpack Compose를 중심으로, Flutter와 Unity까지 앱 개발 경
 
 | 프로젝트 | 소개 | 기술 |
 | :--- | :--- | :--- |
-| [🍕 PizzaEatHo](#pizzaeatho) | 메뉴 탐색부터 주문과 리뷰까지, 피자 주문 앱 | Flutter · Dart · Provider |
-| [📱 싸브리타임](#ssabreetime) | 교육생의 소통과 활동을 연결하는 커뮤니티 앱 | Android · Kotlin |
-| [📈 What's Your ETF](#whats-your-etf) | ETF 탐색과 관심 목록, 투자 전략을 돕는 앱 | Kotlin · Jetpack Compose · Hilt |
-| [📚 Dot Shelf](#dot-shelf) | 책장과 책의 상호작용을 구현한 앱 | Unity · C# |
+| [PizzaEatHo](#pizzaeatho) | 메뉴 탐색부터 주문과 리뷰까지, 피자 주문 앱 | Flutter · Dart · Provider |
+| [싸브리타임](#ssabreetime) | 교육생의 소통과 활동을 연결하는 커뮤니티 앱 | Android · Kotlin |
+| [What's Your ETF](#whats-your-etf) | ETF 탐색과 관심 목록, 투자 전략을 돕는 앱 | Kotlin · Jetpack Compose · Hilt |
+| [Dot Shelf](#dot-shelf) | 책장과 책의 상호작용을 구현한 앱 | Unity · C# |
 
 > 현재 프로젝트 서버 운영은 종료되었습니다. 프로젝트 소개와 개발 경험을 정리한 페이지이며, 소스코드는 공개하지 않습니다.
 
 ---
 
 <a id="pizzaeatho"></a>
-## 🍕 PizzaEatHo · 피짜잇호
+## PizzaEatHo · 피짜잇호
 
 **Flutter 기반 피자 주문 앱**
 
@@ -39,7 +39,7 @@ Kotlin과 Jetpack Compose를 중심으로, Flutter와 Unity까지 앱 개발 경
 ---
 
 <a id="ssabreetime"></a>
-## 📱 싸브리타임
+## 싸브리타임
 
 **교육생을 위한 Android 커뮤니티 앱**
 
@@ -54,7 +54,7 @@ Kotlin과 Jetpack Compose를 중심으로, Flutter와 Unity까지 앱 개발 경
 ---
 
 <a id="whats-your-etf"></a>
-## 📈 What's Your ETF
+## What's Your ETF
 
 **ETF 탐색과 투자 전략을 돕는 Android 앱**
 
@@ -68,7 +68,7 @@ Kotlin과 Jetpack Compose를 중심으로, Flutter와 Unity까지 앱 개발 경
 ---
 
 <a id="dot-shelf"></a>
-## 📚 Dot Shelf
+## Dot Shelf
 
 **책장과 책의 상호작용을 구현한 Unity 프로젝트**
 
