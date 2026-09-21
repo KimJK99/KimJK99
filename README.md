@@ -21,7 +21,6 @@ Kotlin과 Jetpack Compose를 중심으로, Flutter와 Unity까지 앱 개발 경
 | [What's Your ETF](#whats-your-etf) | ETF 탐색과 관심 목록, 투자 전략을 돕는 앱 | Kotlin · Jetpack Compose · Hilt |
 | [Dot Shelf](#dot-shelf) | 책장과 책의 상호작용을 구현한 앱 | Unity · C# |
 
-> 현재 프로젝트 서버 운영은 종료되었습니다. 프로젝트 소개와 개발 경험을 정리한 페이지이며, 소스코드는 공개하지 않습니다.
 
 ---
 
